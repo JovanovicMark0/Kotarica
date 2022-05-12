@@ -1,0 +1,25 @@
+*Instalirati ipfs
+
+https://ipfs.io/#install
+---------------------------------------------------------------------------------------
+
+$ npm install -g ipfs
+$ jsipfs daemon
+
+//Ukoliko ne želite pokretati komandnu liniju daemon-a, koristite sledecu komandu kako bi dobili manji paket
+
+$npm install ipfs-core
+---------------------------------------------------------------------------------------
+
+
+*Instalirati ipfs-http-client
+
+$npm install --save ipfs-http-client
+---------------------------------------------------------------------------------------
+
+
+TO RUN 
+------
+npm install
+
+node app.js

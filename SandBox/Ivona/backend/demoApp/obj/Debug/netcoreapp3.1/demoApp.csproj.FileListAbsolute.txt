@@ -1,0 +1,170 @@
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\demoApp.StaticWebAssets.xml
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\demoApp.exe
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\demoApp.deps.json
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\demoApp.runtimeconfig.json
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\demoApp.runtimeconfig.dev.json
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\demoApp.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\demoApp.pdb
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\demoApp.Views.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\demoApp.Views.pdb
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.csprojAssemblyReference.cache
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.AssemblyInfoInputs.cache
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.AssemblyInfo.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.csproj.CoreCompileInputs.cache
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.RazorAssemblyInfo.cache
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.RazorAssemblyInfo.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.TagHelpers.input.cache
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.TagHelpers.output.cache
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.RazorCoreGenerate.cache
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.RazorTargetAssemblyInfo.cache
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.RazorTargetAssemblyInfo.cs
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.Views.pdb
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.csproj.CopyComplete
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\staticwebassets\demoApp.StaticWebAssets.Manifest.cache
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\staticwebassets\demoApp.StaticWebAssets.xml
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.dll
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.pdb
+C:\Users\zoran\Desktop\demoApp\demoApp\obj\Debug\netcoreapp3.1\demoApp.genruntimeconfig.cache
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\demoApp.csprojAssemblyReference.cache
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\demoApp.AssemblyInfoInputs.cache
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\demoApp.AssemblyInfo.cs
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\demoApp.csproj.CoreCompileInputs.cache
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\demoApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\demoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\demoApp.dll
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\demoApp.pdb
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\demoApp.StaticWebAssets.xml
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\demoApp.exe
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\demoApp.deps.json
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\demoApp.runtimeconfig.json
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\demoApp.runtimeconfig.dev.json
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\demoApp.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\demoApp.pdb
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\demoApp.Views.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\demoApp.Views.pdb
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\zoran\Desktop\New folder\demoApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\demoApp.RazorTargetAssemblyInfo.cache
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\demoApp.csproj.CopyComplete
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\staticwebassets\demoApp.StaticWebAssets.Manifest.cache
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\staticwebassets\demoApp.StaticWebAssets.xml
+C:\Users\zoran\Desktop\New folder\demoApp\obj\Debug\netcoreapp3.1\demoApp.genruntimeconfig.cache

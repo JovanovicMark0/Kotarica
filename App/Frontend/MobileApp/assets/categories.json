@@ -1,0 +1,11 @@
+{
+  "1" : {"Category":"Voće i povrće", "subcategories":["Voće", "Povrće", "Bilje i gljive", "Očišćeno i ceđeno", "Ostalo"], "ikonica":"voceipovrce.png", "ikonicaSelected" : "voceipovrceSelected.png"},
+  "2" : {"Category":"Domaći proizvodi", "subcategories":["Ajvar", "Ratluk", "Jaja", "Slatki džemovi", "Medenjaci i kolači", "Domaći sokovi", "Slatko", "Čajevi", "Zimnice", "Ostalo"], "ikonica":"domace.png", "ikonicaSelected" : "domaceSelected.png"},
+  "3" : {"Category":"Zdrava hrana", "subcategories":["Barovi", "Hlebovi", "Zrnasto i šušeno", "Grickalice", "Namazi", "Sirće i ulje", "Pčelinji proizvodi", "Ostalo"], "ikonica":"zdravahrana.png", "ikonicaSelected" : "zdravahranaSelected.png"},
+  "4" : {"Category":"Mesni proizvodi", "subcategories":["Suhomesnato", "Suhomesnato slajs", "Kobasice", "Čvarci i mast", "Pihtije", "Riblji proizvodi", "Ostalo"],"ikonica": "meso.png", "ikonicaSelected" : "mesoSelected.png"},
+  "5" : {"Category":"Mlečni proizvodi", "subcategories":["Jogurt", "Sir", "Kajmak", "Surutka", "Kiselo mleko", "Kačkavalj", "Ostalo"],"ikonica": "SIR.png", "ikonicaSelected" : "SIRSelected.png"},
+  "6" : {"Category":"Stočarstvo", "subcategories":["Goveda", "Ovce", "Konji i magarci", "Koze", "Pčele", "Živina", "Svinje", "Ostalo"],"ikonica": "stocarstvo.png", "ikonicaSelected" : "stocarstvoSelected.png"},
+  "7" : {"Category":"Stočna hrana", "subcategories":["Kabasta hrana", "Koncetrovana hraniva", "Zrnasta i ostala stočna hraniva", "Ostalo"],"ikonica": "stocnahrana.png", "ikonicaSelected" : "stocnahranaSelected.png"},
+  "8" : {"Category":"Mehanizacija", "subcategories":["Alati", "Kombajni", "Motokultivatori", "Oprema za biljnu proizvodnju", "Oprema za stočarstvo", "Traktori", "Priključne mašine", "Ostalo"],"ikonica": "mehanizacija.png", "ikonicaSelected" : "mehanizacijaSelected.png"},
+  "9" : {"Category":"Ostalo", "subcategories":["Đubrivo", "Zaštitna sredstva", "Poklon paketi", "Poklon korpe", "Čokolade", "Cveće", "Vina", "Rakije", "Ostalo"],"ikonica": "ostalo.png", "ikonicaSelected" : "ostaloSelected.png"}
+}

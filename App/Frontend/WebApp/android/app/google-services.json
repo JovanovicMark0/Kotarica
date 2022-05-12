@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031377491140",
+    "project_id": "kotarica-5fbc1",
+    "storage_bucket": "kotarica-5fbc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031377491140:android:026a221e6f0711639fe591",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031377491140-qa0p9no3spsqi0724j8v2k7ocvtgcbc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJSgEx_Z5chKKV-vB-1TurEvkknM_PG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031377491140-qa0p9no3spsqi0724j8v2k7ocvtgcbc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
